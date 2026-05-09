@@ -40,7 +40,7 @@ Sou Thiago, 18 anos, estudante de Engenharia de Software pela UNICID. Tenho expe
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto]() |
+| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](corrida_do_prompt) |
  
 ---
  

@@ -6,7 +6,7 @@
 ### 📫 Contato & Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-welington-9763ba)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagowm2007@gmail.com)
-[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)]([LINK_DO_PDF_OU_SITE](https://docs.google.com/document/d/1zc5YD8fBzYQYPTu8V7iQ0SAXDsPRXNoQi05SUnqkRoE/edit?usp=sharing))
+[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)]((https://docs.google.com/document/d/1zc5YD8fBzYQYPTu8V7iQ0SAXDsPRXNoQi05SUnqkRoE/edit?usp=sharing))
  
 ---
  

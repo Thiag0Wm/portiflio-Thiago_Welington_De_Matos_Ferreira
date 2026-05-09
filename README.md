@@ -41,7 +41,7 @@ Sou Thiago, 18 anos, estudante de Engenharia de Software pela UNICID. Tenho expe
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Atividade 01** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](Prompt+1.docx.pdf) |
-| **Atividade 02** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](https://docs.google.com/document/d/1J0IsHqm2K5aTePxkunQwftVGNlybIN-qpnJeHLtUjFg/edit?tab=t.0#heading=h.frqpj47qv699) |
+| **Atividade 02** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](Experiência 02: Laboratório de Classificação Visual) |
 | **Atividade 03** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](https://docs.google.com/document/d/1slbHhXKylRuqPkK5OnO8hia2bGZDMRJrksHXpVaD04A/edit?usp=sharing) |
 | **Atividade 04** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](https://ais-dev-txliul4oqmn5ggiv5frvhz-220315365465.us-west1.run.app) |
 | **Atividade 05** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](https://docs.google.com/document/d/1pH4IPHKMdzSrfx3Bgy05r30CQIhExE_lQ5zqn6yUjX0/edit?usp=sharing) |

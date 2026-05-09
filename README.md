@@ -45,7 +45,7 @@ Sou Thiago, 18 anos, estudante de Engenharia de Software pela UNICID. Tenho expe
 | **Atividade 03** | Batalha de Modelos & Engenharia de Prompt (XML) | [Ver Projeto](https://docs.google.com/document/d/1slbHhXKylRuqPkK5OnO8hia2bGZDMRJrksHXpVaD04A/edit?usp=sharing) |
 | **Atividade 04** | Engenharia Reversa | [Ver Projeto](https://github.com/Thiag0Wm/project/tree/main/etica) |
 | **Atividade 05** |Do Clone ao Produto Mínimo Viável (MVP+) | [Ver Projeto](https://github.com/Thiag0Wm/project/tree/main/etica) |
-| **Atividade 06** | Engenharia de Software e IA com Bubble.io | [Ver Projeto]([aula_06](https://thiagowm2007.bubbleapps.io/version-test?debug_mode=true)) |
+| **Atividade 06** | Engenharia de Software e IA com Bubble.io | [Ver Projeto](https://thiagowm2007.bubbleapps.io/version-test?debug_mode=true) |
  
 ---
  

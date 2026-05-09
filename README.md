@@ -40,7 +40,11 @@ Sou Thiago, 18 anos, estudante de Engenharia de Software pela UNICID. Tenho expe
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](Prompt+1.docx.pdf) |
+| **Aula 01** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](Prompt+1.docx.pdf) |
+| **Aula 02** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto]((https://docs.google.com/document/d/1J0IsHqm2K5aTePxkunQwftVGNlybIN-qpnJeHLtUjFg/edit?tab=t.0#heading=h.frqpj47qv699)]) |
+| **Aula 03** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto]([[Prompt+1.docx.pdf](https://ais-dev-txliul4oqmn5ggiv5frvhz-220315365465.us-west1.run.app](https://docs.google.com/document/d/1slbHhXKylRuqPkK5OnO8hia2bGZDMRJrksHXpVaD04A/edit?usp=sharing))) |
+| **** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](Prompt+1.docx.pdf) |
+| **Aula 04** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto]([Prompt+1.docx.pdf](https://ais-dev-txliul4oqmn5ggiv5frvhz-220315365465.us-west1.run.app)) |
  
 ---
  

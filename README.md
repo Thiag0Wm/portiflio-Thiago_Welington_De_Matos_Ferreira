@@ -41,7 +41,7 @@ Sou Thiago, 18 anos, estudante de Engenharia de Software pela UNICID. Tenho expe
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Atividade 01** | A Corrida do Prompt. | [Ver Projeto](Prompt+1.docx.pdf) |
-| **Atividade 02** | Laboratório de Classificação Visual | [Ver Projeto]((https://docs.google.com/document/d/1J0IsHqm2K5aTePxkunQwftVGNlybIN-qpnJeHLtUjFg/edit?usp=sharing)) |
+| **Atividade 02** | Laboratório de Classificação Visual | [Ver Projeto](https://docs.google.com/document/d/1J0IsHqm2K5aTePxkunQwftVGNlybIN-qpnJeHLtUjFg/edit?usp=sharing) |
 | **Atividade 03** | Batalha de Modelos & Engenharia de Prompt (XML) | [Ver Projeto](https://docs.google.com/document/d/1slbHhXKylRuqPkK5OnO8hia2bGZDMRJrksHXpVaD04A/edit?usp=sharing) |
 | **Atividade 04** | Engenharia Reversa | [Ver Projeto](https://github.com/Thiag0Wm/project/tree/main/etica) |
 | **Atividade 05** |Do Clone ao Produto Mínimo Viável (MVP+) | [Ver Projeto](https://github.com/Thiag0Wm/project/tree/main/etica) |

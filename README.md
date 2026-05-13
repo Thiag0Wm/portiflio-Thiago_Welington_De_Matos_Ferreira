@@ -40,7 +40,7 @@ Sou Thiago, 18 anos, estudante de Engenharia de Software pela UNICID. Tenho expe
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Atividade 01** | O trabalho consiste em uma sequência de 5 prompts de geração de imagem com IA. | [Ver Projeto](Prompt+1.docx.pdf) |
+| **Atividade 01** | O trabalho consiste em uma sequência de 5 prompts de geração de imagem com IA. | [Ver Projeto](./Corrida_prompt) |
 | **Atividade 02** | classificar imagens de pessoas em dois estereótipos | [Ver Projeto](https://docs.google.com/document/d/1J0IsHqm2K5aTePxkunQwftVGNlybIN-qpnJeHLtUjFg/edit?usp=sharing) |
 | **Atividade 03** | prompt estruturado em XML com o objetivo de gerar uma página HTML Single Page | [Ver Projeto](https://docs.google.com/document/d/1slbHhXKylRuqPkK5OnO8hia2bGZDMRJrksHXpVaD04A/edit?usp=sharing) |
 | **Atividade 04** | site identico a um site de etica | [Ver Projeto](https://github.com/Thiag0Wm/project/tree/main/etica) |
